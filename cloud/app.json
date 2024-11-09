@@ -1,0 +1,17 @@
+{
+    "apps": [
+        {
+            "app_id": "sip_app_id",
+            "app_secret": "sip_app_secret"
+        },
+        {
+            "app_id": "sip_app_id2",
+            "app_secret": "sip_app_secret2",
+            "hook": "https://osip.dev.owslab.io/api/v1/media/hook"
+        },
+        {
+            "app_id": "meet",
+            "app_secret": "zsz94nsrj3xvmbu555nmu25hwqo6shiq"
+        }
+    ]
+}
