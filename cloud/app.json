@@ -17,6 +17,6 @@
             "app_id": "wetalk_dev",
             "app_secret": "wetalk_dev_secret",
             "hook": "https://wetalk.serveo.net/api/atm0s/hook"
-        },
+        }
     ]
 }
