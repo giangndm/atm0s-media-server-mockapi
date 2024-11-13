@@ -2,7 +2,8 @@
     "apps": [
         {
             "app_id": "sip_app_id",
-            "app_secret": "sip_app_secret"
+            "app_secret": "sip_app_secret",
+            "hook": "https://osip.serveo.net/api/v1/media/hook"
         },
         {
             "app_id": "sip_app_id2",
