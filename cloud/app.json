@@ -6,6 +6,11 @@
             "hook": "https://osip.serveo.net/api/v1/media/hook"
         },
         {
+            "app_id": "sip_app_local",
+            "app_secret": "sip_app_local_secret",
+            "hook": "https://osip.serveo.net/api/v1/media/hook"
+        },
+        {
             "app_id": "sip_app_id2",
             "app_secret": "sip_app_secret2",
             "hook": "https://osip.dev.owslab.io/api/v1/media/hook"
